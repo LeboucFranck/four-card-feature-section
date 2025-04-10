@@ -144,6 +144,9 @@ main{
     }
   }
   @media (min-width: 1200px) {
+    header {
+        margin-top: 10.2rem;
+    }
     main{
         margin: 0 auto 3rem auto;
         grid-template-columns: auto auto auto;
