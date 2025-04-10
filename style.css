@@ -63,7 +63,7 @@ main{
     font-size: 2rem;
     font-weight: 600;
     line-height: 130%;
-    color: var(--font);
+    color: var(--title);
     margin-bottom: 0.6rem;
 }
 .card p{
